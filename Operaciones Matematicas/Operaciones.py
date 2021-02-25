@@ -1,3 +1,4 @@
+# Entrada de Datos
 
 print("Escribe el numero1: ")
 number1 = int(input())
@@ -5,7 +6,7 @@ number1 = int(input())
 print("Escribe numero2: ")
 number2 = int(input())
 
-
+# Operaciones o Calculos Matematicos
 suma = number1 + number2
 resta = number1 - number2
 
@@ -14,6 +15,8 @@ potencia2 = pow(number1, number2)
 raiz_cuadrada = pow(number1, 0.5)
 raiz_cubica = pow(number1, 1/3)
 modulo = number1 % number2
+
+# Impresion o mostrar pantalla
 
 #suma
 print("la suma es igual a " + str(suma))
