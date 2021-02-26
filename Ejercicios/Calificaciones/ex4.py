@@ -1,0 +1,1 @@
+# 4. Pedir un número y decir si es par o impar.

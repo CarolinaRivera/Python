@@ -1,11 +1,8 @@
-import math
 
 
-
-
-
-
-
+# 1. Calcular el promedio de 3 calificaciones y decir si es aprobado o reprobado.
+# 2. Calcular el área y perímetro de un círculo.
+# 3. Determinar la edad de una persona conociendo el año actual y el año de nacimiento.
 # 4. Pedir un número y decir si es par o impar.
 # 5. Pedir la cantidad de grados y convertirlos a °C, °F y K.
 # 6. Obtener valores para: a, b y c. Calcular la fórmula general.
@@ -19,7 +16,6 @@ import math
 # 10. Pedir números enteros en un ciclo mientras sean positivos y en caso de que un número sea negativo cerrar el ciclo y al final promediar los números positivos ingresados por el usuario.
 # 11. Hacer una función para que imprima un arreglo o lista de 10 elementos numéricos
 # 12. Crear una lista o arreglo de diccionarios de 5 estados de México con los datos de nombre, población, extensión
-
 
 
 
