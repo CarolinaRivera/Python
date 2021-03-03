@@ -20,8 +20,8 @@ x4 = (-b - math.sqrt(( b ** b )-(4 * a * c))) / (2 * a)
 
 print(f" X! = ", x1)
 print(f" X1 = ", round(x1, 2))
-print(f" X2 = ", round(x2, 2))
-print(f" X3 = ", round(x3, 2))
+print(f" X2 = ", round(x2, 3))
+print(f" X3 = ", round(x3, 4))
 print(f" X4 = ", round(x4, 2))
 
 
